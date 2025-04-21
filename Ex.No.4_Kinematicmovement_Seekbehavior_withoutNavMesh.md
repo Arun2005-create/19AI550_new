@@ -1,6 +1,6 @@
 # Ex.No: 4  Implementation of Kinematic movement -seek behavior in Unity
-### DATE: 05/03/25
-### REGISTER NUMBER : 212223240035
+### DATE:
+### REGISTER NUMBER : 212223230021
 ### AIM: 
 To write a program to simulate the process of seek behavior in Unity without NavigationMeshAgent. 
 ### Algorithm:
