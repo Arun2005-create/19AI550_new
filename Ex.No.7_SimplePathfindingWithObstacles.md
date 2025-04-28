@@ -1,7 +1,7 @@
 # Ex.No: 7  Implementation of Simple Pathfinding with Obstacles
 ### DATE:25/04/2025                                                                          
-### REGISTER NUMBER :212223240007
-### NAME : ALLEN JOVETH P
+### REGISTER NUMBER :212223230021
+### NAME : ARUN KUMAR B
 ### AIM: 
 To write a program to pathfinding using AI navigation 
 ### Algorithm:
@@ -88,11 +88,6 @@ Before Movement:
 After movement:
 ![Screenshot 2025-04-26 152018](https://github.com/user-attachments/assets/20755e70-576f-4ec4-9f37-ca0e47eb6a5f)
 ![Screenshot 2025-04-26 152035](https://github.com/user-attachments/assets/9237ca73-96fe-4b77-b0ad-adaa0ea2bd62)
-
-
-
-
-
 
 
 
