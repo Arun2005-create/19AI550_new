@@ -1,7 +1,7 @@
 # Ex.No: 8  Implementation of Path finding using A* algorithm
 ### DATE: 25/04/2025                                                                            
-### REGISTER NUMBER : 212223240007
-### NAME : ALLEN JOVETH P
+### REGISTER NUMBER : 212223230021               
+### NAME : ARUN KUMAR B
 ### AIM: 
 To write a program to create graph using waypoints and use A* algorithm to find path between source and destination.
 ### Algorithm:
@@ -144,14 +144,6 @@ Check the following
 ![Screenshot 2025-04-26 152640](https://github.com/user-attachments/assets/ae59fe57-2032-4128-8147-71af0d0779bd)
 ![Screenshot 2025-04-26 152648](https://github.com/user-attachments/assets/b592e7f4-e26a-4c71-bbc5-2ce19d44242d)
 ![Screenshot 2025-04-26 152656](https://github.com/user-attachments/assets/d4ddcbaa-f126-4331-882a-98ee33f86073)
-
-
-
-
-
-
-
-
 
 
 
